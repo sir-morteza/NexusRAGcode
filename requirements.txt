@@ -1,0 +1,12 @@
+
+pymupdf
+sentence-transformers
+faiss-cpu
+rank-bm25
+pandas
+numpy
+tqdm
+transformers
+accelerate
+torch
+streamlit
